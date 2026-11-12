@@ -21,7 +21,7 @@ A LLM deverá gerar todos os arquivos necessários para que o projeto possa ser 
 ### 2.1. Engine
 
 - Engine: Unity.
-- Versão-alvo: Unity 2022.3 LTS (linha 2022.3.xf1).
+- Versão-alvo: Unity 2022.3.22f1 (linha 2022.3 LTS).
 - Linguagem: C#.
 - Sistema operacional de destino: Windows 10.
 - Tipo de jogo: 3D Side-Scroller Platformer.
@@ -809,7 +809,7 @@ O resultado final deverá ser um projeto Unity completo, reproduzível e pronto 
 O projeto está registrado em `ProjectSettings/ProjectVersion.txt` como:
 
 ```text
-m_EditorVersion: 2022.3.20f1
+m_EditorVersion: 2022.3.22f1
 ```
 
 Qualquer versão da linha Unity 2022.3 LTS pode ser usada. Caso a instalação local seja diferente, abra o projeto pelo Unity Hub e aceite a atualização de versão sugerida pelo Editor.
